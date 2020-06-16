@@ -1,0 +1,1 @@
+https://dba.stackexchange.com/questions/246862/unable-to-start-mongodb-as-a-service-exception-collection-does-not-have-uuid
